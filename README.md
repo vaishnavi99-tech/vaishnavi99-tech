@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">, I'm Vaishnavi Lugade.</h1>
+<h1 align="center">Hi <img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">, I'm Vaishnavi</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaishnavilugade&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavilugade" /> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vaishnavilugade?label=Followers&style=social"> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vaishnavi99-tech?label=Followers&style=social"> •
   <!-- <a href="https://user-badge.committers.top/india_private/vaishnavilugade"><img src="https://user-badge.committers.top/india_private/vaishnavilugade.svg"></a>  •-->
-  <img src="https://img.shields.io/github/stars/vaishnavilugade?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
+  <img src="https://img.shields.io/github/stars/vaishnavi99-tech?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
   
 </p>
 <img align="right" alt="Coding" Width="500" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" height="305" width="48px"/>
@@ -28,11 +28,11 @@
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONTRIBUTION GRAPH:</h3>
 
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavilugade&bg_color=white&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi99-tech&bg_color=white&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1></h1>
 
-<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONNECT WITH ME:</h3>
+<!-- <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONNECT WITH ME:</h3>
 
 <p align="left">
   &nbsp;&nbsp;<a href="https://twitter.com/vaishnavilugade" target="_blank" rel="noreferrer"> <img class="img" src="https://media.tenor.com/2vXPlIhxIvgAAAAC/twitter-logo.gif" alt="go" width="60" height="60"/> </a>   &nbsp;&nbsp;&nbsp;
@@ -44,9 +44,9 @@
               <a href="https://leetcode.com/vaishnavilugade/" target="_blank"><img class="set"   src="https://tse2.mm.bing.net/th?id=OIP.L2Jfuatqty2XAIUqYnr_pgHaHa&pid=Api&P=0" alt="@vaishnavilugade" height="50" width="50"  /> </a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/vaishnavilugade" target="_blank"><img class="set" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6.png" alt="@vaishnavilugade" height="50" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               <a href="https://www.kaggle.com/vaishnavilugade" target="_blank"><img class="set"  src="https://tse3.mm.bing.net/th?id=OIP.-Z0A1a16i6g_uiYCnbl8mgHaHa&pid=Api&P=0&h=180" alt="@vaishnavilugade" height="50" width="50" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codingninjas.com/studio/profile/vaishnavilugade" target="_blank"><img class="set"  src="https://tse1.mm.bing.net/th?id=OIP.YGMKfBEvia_lF6TyOdbQfwHaHa&pid=Api&P=0&h=180" alt="@vaishnavilugade" height="50" width="50" /> </a>&nbsp;&nbsp;
-</p>
+</p> 
 
-<h1> </h1>
+<h1> </h1> -->
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > LANGUAGES AND TOOLS:</h3>
 <p align="left">&nbsp;&nbsp;<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img class="img" src="https://media.giphy.com/media/gjyaNwLTFVfS8/giphy.gif" alt="android" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img class="img" src="https://tse3.mm.bing.net/th?id=OIP.Xa0BEkwl0Zx4qnY9lMbD7gHaHa&pid=Api&P=0&h=180" alt="android" width="60" height="50"/></a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp
@@ -68,7 +68,7 @@
 <h1></h1>
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > GITHUB PROFILE TROPHY:</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=1200 src="https://github-profile-trophy.vercel.app/?username=vaishnavilugade&column=8&no-frame=true"/>
+  <img width=1200 src="https://github-profile-trophy.vercel.app/?username=vaishnavi99-tech&column=8&no-frame=true"/>
  
 </a>
 
@@ -76,12 +76,12 @@
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="25" > ACTIVITY:</h3>
 
 
- <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=vaishnavilugade&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white" alt="vaishnavi's Github Stats" width="60%">
+ <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=vaishnavi99-tech&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white" alt="vaishnavi's Github Stats" width="60%">
   
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavilugade" width="37%" alt="vaishnavi's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi99-tech" width="37%" alt="vaishnavi's Top Languages">
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavilugade&" alt="vaishnavilugade" width="60%" ><br><br><br><br><br><br><br><br><br><br>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi99-tech&" alt="vaishnavilugade" width="60%" ><br><br><br><br><br><br><br><br><br><br>
 
 
 
