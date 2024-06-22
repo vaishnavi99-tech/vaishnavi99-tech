@@ -25,12 +25,10 @@
  <p align="left"> • 🖥️ Always intrested in <strong>Coding</strong> & new learnings.</p>
  
 <h1></h1>
-<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONTRIBUTION GRAPH:</h3>
 
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi99-tech&bg_color=white&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h1></h1>
+
 
 <!-- <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONNECT WITH ME:</h3>
 
